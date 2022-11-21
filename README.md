@@ -5,11 +5,13 @@
 
 - 🔭 Focused on my **goals**
 
-- ⚡ Hobby [football and cycling](football and cycling)
+- ⚡ Hobby football and cycling
 
 - 💬 Ask me about **react, javascript, nextjs**
 
 - 📫 How to reach me **omar98rachid@gmail.com**
+
+- 🚀 Blockchain Enthusiast $$$
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
