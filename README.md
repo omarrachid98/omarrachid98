@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Omar Rachid</h1>
+<h1 align="center"> 🚀 About me Omar Rachid</h1>
 <h3 align="center">A passionate frontend developer from Italy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarrachid98&label=Profile%20views&color=0e75b6&style=flat" alt="omarrachid98" /> </p>
