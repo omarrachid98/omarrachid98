@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: <strong> Omar Rachid </strong>
 🔭 Focused on my goals<br><br>⚡ Hobby football and cycling<br><br>💬 Ask me about react, javascript, nextjs<br><br>📫 How to reach me omar98rachid@gmail.com<br><br>🚀 Blockchain Enthusiast $$$
 
 
